@@ -5,5 +5,8 @@
   "scripts": {
     "start": "node index.js",
     "start-with-client-ssl": "node index-client.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
